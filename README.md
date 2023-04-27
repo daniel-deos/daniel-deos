@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML, ZK-proofs, advanced peer-to-peer networks**
 
-- 👯 I’m looking to collaborate on **DeOS browser**
+- 👯 I’m looking to collaborate on **DeOS browser and OpenCloud**
 
 - 💬 Ask me about **decentralization**
 
